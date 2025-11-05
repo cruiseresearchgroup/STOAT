@@ -14,17 +14,6 @@ STOAT (Spatial-Temporal Causal Inference for Epidemic Forecasting) is a novel fr
 - **Uncertainty Quantification**: Provides calibrated uncertainty estimates through probabilistic forecasting
 - **Interpretable Parameters**: Offers interpretable causal parameters for policy analysis
 
-## 📋 Table of Contents
-
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Architecture](#architecture)
-- [Usage](#usage)
-- [Examples](#examples)
-- [API Reference](#api-reference)
-- [Contributing](#contributing)
-- [License](#license)
-- [Citation](#citation)
 
 ## 🚀 Installation
 
@@ -220,3 +209,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 **Note**: This is a research implementation. For production use, please ensure proper validation and testing.
+
